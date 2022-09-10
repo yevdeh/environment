@@ -26,7 +26,7 @@
 Install [Chrome extension](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep)
 ## BackSlide
 1. [Install](https://extensions.gnome.org/extension/543/backslide)
-1. Copy from backup to "wallpapers" folder
+1. Copy from backup to components/system/wallpapers
 1. Select wallpapers in BackSlide settings
 ## Hide Top Bar
 1. [Install](https://extensions.gnome.org/extension/545/hide-top-bar)
