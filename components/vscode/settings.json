@@ -1,0 +1,39 @@
+{
+	"breadcrumbs.enabled": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.foldingHighlight": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true,
+	"editor.insertSpaces": false,
+	"editor.minimap.enabled": false,
+	"editor.renderLineHighlight": "all",
+	"editor.renderWhitespace": "boundary",
+	"editor.rulers": [80],
+	"editor.snippetSuggestions": "top",
+	"editor.tabSize": 2,
+	"files.eol": "\n",
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"prettier.requireConfig": true,
+	"window.menuBarVisibility": "toggle",
+	"workbench.activityBar.visible": false,
+	"workbench.editor.openPositioning": "last",
+	"workbench.startupEditor": "none",
+	"workbench.statusBar.visible": false,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[markdown]": {
+		"files.trimTrailingWhitespace": false
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
