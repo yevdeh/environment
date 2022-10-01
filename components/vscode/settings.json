@@ -16,6 +16,7 @@
 	"files.trimTrailingWhitespace": true,
 	"javascript.updateImportsOnFileMove.enabled": "always",
 	"prettier.requireConfig": true,
+	"typescript.updateImportsOnFileMove.enabled": "always",
 	"window.menuBarVisibility": "toggle",
 	"workbench.activityBar.visible": false,
 	"workbench.editor.openPositioning": "last",
