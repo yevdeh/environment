@@ -33,5 +33,5 @@ Install [Chrome extension](https://chrome.google.com/webstore/detail/gnome-shell
 1. Disable "Intellihide"
 
 # Files
-1. Clone active repositories to ~/code
-1. Fill ~/gd with content from backup
+1. Clone active repositories to ~/projects
+1. Fill ~/other with content from backup

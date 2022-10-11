@@ -1,5 +1,5 @@
 cd && rm -rf Documents Music Pictures Public Templates Videos
-mkdir code gd
+mkdir other projects
 echo "Desktop" >> ~/.hidden
 echo "snap" >> ~/.hidden
 
