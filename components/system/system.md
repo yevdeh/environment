@@ -34,4 +34,4 @@ Install [Chrome extension](https://chrome.google.com/webstore/detail/gnome-shell
 
 # Files
 1. Clone active repositories to ~/projects
-1. Fill ~/other with content from backup
+1. Download content from backup
