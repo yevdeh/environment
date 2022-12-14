@@ -9,7 +9,7 @@ sudo apt -y install containerd.io docker-ce docker-ce-cli docker-compose docker-
 # sudo docker run hello-world
 
 # run without sudo
-sudo groupadd docker
+sudo groupadd -f docker
 sudo usermod -aG docker $USER
 # activate the changes to groups
 newgrp docker
