@@ -1,6 +1,5 @@
 # Manual for building environment on Ubuntu 22.04.1 LTS
-`sudo apt update`  
-`sudo apt -y upgrade`  
+`sudo apt update && sudo apt -y upgrade`  
 Copy SSH keys from backup to ~/.ssh  
 `ssh-add ~/.ssh/id_ed25519`  
 `sudo apt -y install git`  
