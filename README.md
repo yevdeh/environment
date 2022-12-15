@@ -8,5 +8,4 @@
 1. `cd && git clone git@github.com:yevdeh/environment.git`  
 1. `cd ~/environment && chmod +x ./init.sh && ./init.sh`  
 1. Manually follow components/system/system.md instruction  
-1. `sudo apt -y autoremove`  
-1. `reboot`
+1. `sudo apt -y autoremove && reboot`
