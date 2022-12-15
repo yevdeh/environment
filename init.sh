@@ -12,7 +12,6 @@ sudo apt -y install curl
 # apps
 source $dir_com/chrome/chrome.sh
 source $dir_com/docker/docker.sh
-source $dir_com/git/git.sh
 source $dir_com/node/node.sh
 sudo snap install telegram-desktop
 source $dir_com/vscode/vscode.sh
