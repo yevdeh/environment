@@ -5,9 +5,6 @@ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o 
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt update
 sudo apt -y install containerd.io docker-ce docker-ce-cli docker-compose docker-compose-plugin
-# check is docker installed properly
-# sudo docker run hello-world
-
 # run without sudo
 sudo groupadd -f docker
 sudo usermod -aG docker $USER
