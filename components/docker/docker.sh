@@ -13,5 +13,3 @@ sudo groupadd -f docker
 sudo usermod -aG docker $USER
 # activate the changes to groups
 newgrp docker
-# test
-# docker run hello-world
