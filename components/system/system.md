@@ -13,10 +13,10 @@
 	1. Automatically Delete Trash Content: on
 	1. Automatically Delete Temporary Files: on
 1. Displays: Resolution: 1600 x 900 (16:9)
-1. Keyboard: Input Sources: English (US), Ukrainian, Russian
+1. Keyboard: Input Sources: English (US), Russian
 1. Region & Language
-	1. Install Ukrainian and Russian languages
-	1. Formats: Україна (Українська)
+	1. Install Russian language
+	1. Formats: Российская Федерация
 
 # Tweaks
 1. Startup Applications: Chrome, Telegram
