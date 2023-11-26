@@ -25,7 +25,7 @@
 	1. Formats: Российская Федерация
 
 # Tweaks
-1. Startup Applications: Chrome, Telegram
+1. Startup Applications: Code, Telegram
 1. Top Bar: Weekday: on
 
 # Extensions

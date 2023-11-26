@@ -1,6 +1,6 @@
 # Manual for building environment on Ubuntu 22.04.1 LTS
 1. Copy from backup
-	1. .gitconfig to ~/.gitconfig
+	1. .gitconfig to ~/
 	1. SSH keys to ~/.ssh
 1. `sudo apt update && sudo apt -y upgrade`
 1. `cd ~/.ssh && chmod 600 id_ed25519 && ssh-add id_ed25519`

@@ -5,6 +5,7 @@ sudo apt update
 sudo apt -y install code
 mkdir -p ~/.config/Code/User
 ln -sfn $dir_com/vscode/settings.json ~/.config/Code/User/settings.json
-while read p; do
-	code --install-extension $p
-done < $dir_com/vscode/extensions.txt
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension editorconfig.editorconfig
+code --install-extension esbenp.prettier-vscode
+code --install-extension styled-components.vscode-styled-components
